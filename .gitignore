@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets / local config
+.env
+*.local.yaml
+
+# Generated artefacts
+mlruns/
+mlartifacts/
+data/index/
+data/orders/orders.db
+data/eval/results/
+*.log
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+.claude/

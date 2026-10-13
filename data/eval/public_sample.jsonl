@@ -1,0 +1,30 @@
+{"utterance": "I need help checking the refund policy", "intent": "check_refund_policy", "category": "REFUND"}
+{"utterance": "can you tell me under what circumstances I can get a refund?", "intent": "check_refund_policy", "category": "REFUND"}
+{"utterance": "I want to know how long a refund takes", "intent": "check_refund_policy", "category": "REFUND"}
+{"utterance": "what do I have to do to get my money back", "intent": "check_refund_policy", "category": "REFUND"}
+{"utterance": "how long does it take for a delivery to arrive?", "intent": "delivery_period", "category": "DELIVERY"}
+{"utterance": "could you tell me the estimated delivery time", "intent": "delivery_period", "category": "DELIVERY"}
+{"utterance": "I would like to see the shipping options you offer", "intent": "delivery_options", "category": "DELIVERY"}
+{"utterance": "wanna check what delivery options there are", "intent": "delivery_options", "category": "DELIVERY"}
+{"utterance": "which payment methods can I use?", "intent": "check_payment_methods", "category": "PAYMENT"}
+{"utterance": "I need to check the accepted payment options", "intent": "check_payment_methods", "category": "PAYMENT"}
+{"utterance": "is there a fee for cancelling an order?", "intent": "check_cancellation_fee", "category": "ORDER"}
+{"utterance": "do I have to pay anything if I cancel my purchase", "intent": "check_cancellation_fee", "category": "ORDER"}
+{"utterance": "what hours can I contact customer service?", "intent": "contact_customer_service", "category": "CONTACT"}
+{"utterance": "when is your customer support available", "intent": "contact_customer_service", "category": "CONTACT"}
+{"utterance": "I want to delete my account, how do I do that", "intent": "delete_account", "category": "ACCOUNT"}
+{"utterance": "help me closing my account", "intent": "delete_account", "category": "ACCOUNT"}
+{"utterance": "where can I download the invoice for my purchase", "intent": "get_invoice", "category": "INVOICE"}
+{"utterance": "I need a copy of my invoice", "intent": "get_invoice", "category": "INVOICE"}
+{"utterance": "I want to talk to a human agent", "intent": "contact_human_agent", "category": "CONTACT"}
+{"utterance": "can I speak with somebody from your team, not a bot", "intent": "contact_human_agent", "category": "CONTACT"}
+{"utterance": "I want to file a complaint about the service I received", "intent": "complaint", "category": "FEEDBACK"}
+{"utterance": "I am really unhappy, how do I make a complaint", "intent": "complaint", "category": "FEEDBACK"}
+{"utterance": "I want to leave a review for a product", "intent": "review", "category": "FEEDBACK"}
+{"utterance": "how do I sign up for your newsletter", "intent": "newsletter_subscription", "category": "SUBSCRIPTION"}
+{"utterance": "I'd like to place a new order for the same item", "intent": "place_order", "category": "ORDER"}
+{"utterance": "how do I track the status of my refund", "intent": "track_refund", "category": "REFUND"}
+{"utterance": "I need to change my shipping address", "intent": "change_shipping_address", "category": "SHIPPING_ADDRESS"}
+{"utterance": "I forgot my password, how can I recover it", "intent": "recover_password", "category": "ACCOUNT"}
+{"utterance": "there is a problem with my payment, can you help", "intent": "payment_issue", "category": "PAYMENT"}
+{"utterance": "I would like to cancel an order I placed yesterday", "intent": "cancel_order", "category": "ORDER"}
